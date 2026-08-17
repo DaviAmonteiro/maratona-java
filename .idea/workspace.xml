@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404ed28a-2968-493b-ab7e-aaa97bb34982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/maratona-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays03Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays04Multidimensionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/EstruturasCondicionais02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/EstruturasCondicionais03Ex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/Formulario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/RevisaoDeAprendizado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/SistemasNotas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/ValidacaoIdade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/ValidacaoNumeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona.java/src/main/java/academy/devdojo/maratonajava/introducao/aula03TiposPrimitivosExercicios.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +38,15 @@
   "keyToString": {
     "Application.Arrays01.executor": "Run",
     "Application.Arrays02.executor": "Run",
+    "Application.Arrays03.executor": "Run",
+    "Application.Arrays04Multidimensionais.executor": "Run",
+    "Application.ArraysMultidimensionaisExemplo.executor": "Run",
     "Application.EstruturasCondicionais01.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
     "Application.EstruturasCondicionais03.executor": "Run",
     "Application.EstruturasCondicionais04.executor": "Run",
     "Application.EstruturasCondicionais05.executor": "Run",
+    "Application.foreachExample.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
