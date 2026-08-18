@@ -11,6 +11,14 @@ public class Arrays05MultidimensionaisDeclaracaoDireta {
             }
             System.out.println();
         }
+        System.out.println("----------------------------------------------");
+        // Imprime o mesmo resultado, mas usando forEach!
+
+        for (int[] arrBase: matriz){
+            for (int num : arrBase) {
+                System.out.println(num);
+            }
+        }
 
     }
 }
