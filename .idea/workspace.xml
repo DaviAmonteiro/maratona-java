@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404ed28a-2968-493b-ab7e-aaa97bb34982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays03Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays04Multidimensionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays06Multidimensionais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,8 @@
     "Application.Arrays02.executor": "Run",
     "Application.Arrays03.executor": "Run",
     "Application.Arrays04Multidimensionais.executor": "Run",
+    "Application.Arrays05MultidimensionaisDeclaracaoDireta.executor": "Run",
+    "Application.Arrays06Multidimensionais.executor": "Run",
     "Application.ArraysMultidimensionaisExemplo.executor": "Run",
     "Application.EstruturasCondicionais01.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
