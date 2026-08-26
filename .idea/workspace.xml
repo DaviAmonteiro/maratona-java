@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404ed28a-2968-493b-ab7e-aaa97bb34982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays06Multidimensionais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays05MultidimensionaisDeclaracaoDireta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios Fix/CaixaEletronicoJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fix/CaixaEletronicoJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,35 +32,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arrays01.executor": "Run",
-    "Application.Arrays02.executor": "Run",
-    "Application.Arrays03.executor": "Run",
-    "Application.Arrays04Multidimensionais.executor": "Run",
-    "Application.Arrays05MultidimensionaisDeclaracaoDireta.executor": "Run",
-    "Application.Arrays06Multidimensionais.executor": "Run",
-    "Application.ArraysMultidimensionaisExemplo.executor": "Run",
-    "Application.EstruturasCondicionais01.executor": "Run",
-    "Application.EstruturasCondicionais02.executor": "Run",
-    "Application.EstruturasCondicionais03.executor": "Run",
-    "Application.EstruturasCondicionais04.executor": "Run",
-    "Application.EstruturasCondicionais05.executor": "Run",
-    "Application.foreachExample.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/aherr/OneDrive/Área de Trabalho/maratona-java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays04Multidimensionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays05MultidimensionaisDeclaracaoDireta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays06Multidimensionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysMultidimensionaisExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.foreachExample.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aherr/OneDrive/Área de Trabalho/maratona-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="404ed28a-2968-493b-ab7e-aaa97bb34982" name="Changes" comment="" />

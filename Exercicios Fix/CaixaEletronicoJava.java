@@ -27,7 +27,7 @@ public class CaixaEletronicoJava {
 
             if (digitesenha != senha) {
                 System.out.println("Senha inválida!");
-            } else if (digitesenha == senha) {
+            } else {
                 acessoPermitido = true;
                 break;
             }
@@ -41,7 +41,7 @@ public class CaixaEletronicoJava {
                 System.out.println("3- Sacar valor:");
                 System.out.println("4- Consultar extrato bancário:");
                 System.out.println("5- Sair");
-                System.out.print("Escolha uma opção: 1-4: ");
+                System.out.print("Escolha uma opção: 1-5 ");
 
 
                 int opcao = scanner.nextInt();
